@@ -1,5 +1,5 @@
 # Dark/Light-sensor  
-
+ 
 ## 🔧 Components Used
 
 •	LDR
