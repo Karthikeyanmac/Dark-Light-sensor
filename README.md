@@ -1,6 +1,6 @@
 # Dark/Light-sensor 
 
-# 🔧 Components Used
+## 🔧 Components Used
 
 •	LDR
 
@@ -16,17 +16,17 @@
 
 •	5–9V power supply
 
-# ⚡ Working Principle
+## ⚡ Working Principle
 
 When photons hit the LDR, the electrons inside roam and creates a voltage,this voltage compared with reference voltage set by potentiometer and then LED glows(Dark detection).By reversing the logic in comparator we can get the light detection.
 
-# 🧩 Schematic-Dark sensor
+## 🧩 Schematic-Dark sensor
 ![schematic](https://github.com/Karthikeyanmac/Dark-Light-sensor/blob/main/Dark%20sensor.png)
 
-# 🧩 Schematic-Light sensor
+## 🧩 Schematic-Light sensor
 ![schematic](https://github.com/Karthikeyanmac/Dark-Light-sensor/blob/main/Light%20sensor.png)
 
-# ✔️ Status
+## ✔️ Status
 Working and tested on breadboard
 
 
