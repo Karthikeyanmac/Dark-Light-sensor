@@ -24,7 +24,7 @@ When photons hit the LDR, the electrons inside roam and creates a voltage,this v
 ![schematic](https://github.com/Karthikeyanmac/Dark-Light-sensor/blob/main/Dark%20sensor.png)
 
 # 🧩 Schematic-Light sensor
-![schematic](https://github.com/Karthikeyanmac/Traffic-Light-Controller-Using-NE555-Timer-IC/blob/main/breadboard_image.jpg)
+![schematic](https://github.com/Karthikeyanmac/Dark-Light-sensor/blob/main/Light%20sensor.png)
 
 # ✔️ Status
 Working and tested on breadboard
